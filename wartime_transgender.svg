@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  version="2.0"
+  id="trans_wartime"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  width="1000"
+  height="600"
+  viewBox="0 0 1000 600">
+  <title id="trans_wartime_title">Tansgender War Flag
+  </title>
+  <metadata id="trans_wartime_metadata">
+    <rdf:RDF>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Transgender War Flag</dc:title>
+        <dc:date>2025-03-15</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Timothy Rezendes</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://232.software/WarFlags/</dc:source>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style>
+      .blue {
+        stroke: #21b1ff;
+        fill: #21b1ff;
+      }
+
+      .pink {
+        stroke: #ff218c;
+        fill: #ff218c;
+      }
+
+      .white {
+        stroke: #ffffff;
+        fill: #ffffff;
+      }
+    </style>
+  </defs>
+  <rect id="blue-stripe-1" x="0" y="0" class="blue" width="1000" height="120" />
+  <rect id="pink-stripe-1" x="0" y="121" class="pink" width="1000" height="120" />
+  <rect id="white-stripe" x="0" y="241" class="white" width="1000" height="120" />
+  <rect id="pink-stripe-2" x="0" y="361" class="pink" width="1000" height="120" />
+  <rect id="blue-stripe-2" x="0" y="481" class="blue" width="1000" height="120" />
+</svg>

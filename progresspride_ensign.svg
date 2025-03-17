@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg>
+<svg
+   version="2.0"
+   id="nb_peacetime"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   width="1000" height="600" viewBox="0 0 1000 600"
+   >
+  <title
+     id="trans_peacetime_title">Transgender Pride Flag
+  </title>
+  <metadata
+     id="trans_peacetime_metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Transgender Ensign</dc:title>
+        <dc:date>2025-03-17</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Timothy Rezendes</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style>
+
+      #white {
+          fill: #ffffff;
+          stroke: #000000;
+      }
+
+      #pink {
+          fill: #ffafc8;
+          stroke: none;
+      }
+
+      #light-blue {
+          fill: #74d7ee;
+          stroke: none;
+      }
+
+      #brown {
+          fill: #613915;
+          stroke: none;
+      }
+
+      #black {
+          fill: #000000;
+          stroke: none;
+      }
+
+      #red {
+          fill: #e40303;
+          stroke: none;
+      }
+
+      #orange {
+          fill: #ff8c00;
+          stroke: none;
+      }
+
+      #yellow {
+          fill: #ffed00;
+          stroke: none;
+      }
+
+      #green {
+          fill: #008026;
+          stroke: none;
+      }
+
+      #blue {
+          fill: #004dff;
+          stroke: none;
+      }
+
+      #purple {
+          fill: #750787;
+          stroke: none;
+      }
+    </style>
+  </defs>
+  <rect id="white" x="0" y="0" width="1000" height="600" />
+  <rect id="pink" x="91" y="0" width="91" height="600" />
+  <rect id="light-blue" x="182" y="0" width="91" height="600" />
+  <rect id="brown" x="273" y="0" width="91" height="600" />
+  <rect id="black" x="364" y="0" width="91" height="600" />
+  <rect id="red" x="455" y="0" width="91" height="600" />
+  <rect id="orange" x="546" y="0" width="91" height="600" />
+  <rect id="yellow" x="637" y="0" width="91" height="600" />
+  <rect id="green" x="728" y="0" width="91" height="600" />
+  <rect id="blue" x="819" y="0" width="91" height="600" />
+  <rect id="purple" x="910" y="0" width="90" height="600" />
+
+</svg>

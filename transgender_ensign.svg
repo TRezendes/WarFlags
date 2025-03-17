@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg>
+<svg
+   version="2.0"
+   id="nb_peacetime"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   width="1000" height="600" viewBox="0 0 2000 1200"
+   >
+  <title
+     id="trans_peacetime_title">Transgender Pride Flag
+  </title>
+  <metadata
+     id="trans_peacetime_metadata">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Transgender Ensign</dc:title>
+        <dc:date>2025-03-17</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Timothy Rezendes</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style>
+      .blue {
+        stroke: #5bcefa;
+        fill: #5bcefa;
+      }
+
+      .pink {
+        stroke: #f5a9b8;
+        fill: #f5a9b8;
+      }
+
+      .white {
+        stroke: #ffffff;
+        fill: #ffffff;
+      }
+
+      #anchor {
+        stroke-width: 50;
+        stroke-linecap: round;
+        stroke: #5bcefa;
+        fill: none;
+      }
+
+
+    </style>
+  </defs>
+  <rect id="field" fill="white" stroke="black" x="0" y="0" width="2000" height="1200" />
+  <g id="canton">
+    <rect id="blue-stripe-1" x="0" y="0" class="blue" width="1000" height="120" />
+    <rect id="pink-stripe-1" x="0" y="121" class="pink" width="1000" height="120" />
+    <rect id="white-stripe" x="0" y="241" class="white" width="1000" height="120" />
+    <rect id="pink-stripe-2" x="0" y="361" class="pink" width="1000" height="120" />
+    <rect id="blue-stripe-2" x="0" y="481" class="blue" width="1000" height="120" />
+  </g>
+  <g id="anchor">
+    <circle
+      id="head"
+      cx="1500"
+      cy="375"
+      r="100"
+    />
+    <line
+      id="female-stock"
+      x1="1400"
+      y1="587.5"
+      x2="1600"
+      y2="587.5"
+      />
+    <g id="male-stock"
+      transform="rotate(-135, 1500, 375)"
+      >
+      <line
+        id="ms-vert"
+        x1="1500"
+        y1="475"
+        x2="1500"
+        y2="650"
+      />
+      <polyline
+        id="ms-arrow"
+        points="
+          1400 600
+          1500 700
+          1600 600
+        "
+      />
+    </g>
+      <!-- stroke="#ff6688" -->
+    <g id="androgyne-stock"
+      transform="rotate(135, 1500, 375)"
+      >
+      <line
+        id="as-vert"
+        x1="1500"
+        y1="475"
+        x2="1500"
+        y2="700"
+        />
+      <polyline
+        id="as-arrow"
+        points="
+          1400 600
+          1500 700
+          1600 600
+        "
+      />
+      <line
+        id="as-horiz"
+        x1="1425"
+        y1="540"
+        x2="1575"
+        y2="540"
+      />
+    </g>
+    <line
+      id="shank"
+      x1="1500"
+      y1="500"
+      x2="1500"
+      y2="1050"
+    />
+    <path
+      id="crown"
+      d="
+        M 1296 850
+        A 1 1 0 0 0 1704 850
+      "
+    />
+    <polygon
+      id="l-fluke"
+      points="
+        1296 800
+        1265 850
+        1327 850
+      "
+    />
+    <polygon
+      id="r-fluke"
+      points="
+        1704 800
+        1673 850
+        1735 850
+      "
+    />
+  </g>
+</svg>

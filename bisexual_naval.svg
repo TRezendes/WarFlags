@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  version="2.0"
+  id="bi_ensign"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  width="600"
+  height="600"
+  viewBox="0 0 600 600"
+  preserveAspectRation="True"
+  >
+  <title id="bi_ensign_title">Bisexual Naval Ensign
+  </title>
+  <metadata id="bi_ensign_metadata">
+    <rdf:RDF>
+      <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Bisexual Naval Ensign</dc:title>
+        <dc:date>2025-03-15</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Timothy Rezendes</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://232.software/WarFlags/</dc:source>
+        <dc:language>en</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs>
+    <style>
+      .pink {
+        stroke: rgb(214, 2, 112);
+        fill: rgb(214, 2, 112);
+      }
+
+      .purple {
+        stroke: rgb(155, 79, 150);
+        fill: rgb(155, 79, 150);
+        stroke: #000000;
+        stroke-width: 1px;
+      }
+
+      .blue {
+        stroke: rgb(0, 56, 168);
+        fill: rgb(0, 56, 168);
+      }
+
+      .white {
+        stroke: #fff;
+        fill: #fff;
+      }
+      #sword-1 {
+        transform: rotate(26deg) scale(1.1);
+        transform-origin: 50% 50%;
+      }
+      #sword-2 {
+        transform: rotate(-26deg) scale(1.1);
+        transform-origin: 50% 50%;
+      }
+    </style>
+    <mask id="gutter-mask">
+      <path
+        id="gutter-mask-blade"
+        d="
+          M 474 500
+          L 479 57
+          Q 475 28 500 0
+          Q 525 28 521 57
+          L 526 500
+        "
+        fill="white"
+        />
+      <rect
+        id="gutter-mask-gutter"
+        x="496.75"
+        y="74"
+        height="329"
+        width="7.5"
+        rx="2"
+        ry="2"
+        fill="black"
+        />
+    </mask>
+  </defs>
+  <rect
+    id="field"
+    class="white"
+    x="0"
+    y="0"
+    width="600"
+    height="600"
+    />
+    <polygon
+      id="pink-tri"
+      class="pink"
+      points="
+        25 50
+        225 396.4
+        425 50
+      "
+      />
+    <polygon
+      id="blue-tri"
+      class="blue"
+      points="
+        175 203.6
+        375 550
+        575 203.4
+      "
+      />
+  </svg>

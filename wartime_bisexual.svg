@@ -56,14 +56,7 @@
         stroke: #fff;
         fill: #fff;
       }
-      #sword-1 {
-        transform: rotate(26deg) scale(1.1);
-        transform-origin: 50% 50%;
-      }
-      #sword-2 {
-        transform: rotate(-26deg) scale(1.1);
-        transform-origin: 50% 50%;
-      }
+
     </style>
     <mask id="gutter-mask">
       <path
@@ -93,7 +86,7 @@
   <!-- <rect id="middle-stripe" x="401" y="0" class="white" width="200" height="600" /> -->
   <rect id="blue-stripe" x="501" y="0" class="blue" width="500" height="600" />
 
-  <g id="sword-1">
+  <g id="sword-1" transform="rotate(26 500 300) scale(1.1) translate(-50 -25)">
   <circle id="pommel-1" class="purple" cx="500" cy="580" r="20" />
     <path
       id="hilt-1"
@@ -119,7 +112,7 @@
     />
     <line id="gutter" stroke="black" x1="500" y1="70" x2="500" y2="450" />
   </g>
-  <g id="sword-2">
+  <g id="sword-2" transform="rotate(-26 500 300) scale(1.1) translate(-50 -30)" >
   <circle id="pommel-2" class="purple" cx="500" cy="580" r="20" />
     <path
       id="hilt-2"
